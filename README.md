@@ -1,1 +1,0 @@
-# Autism-Prediction-using-machine-learning
